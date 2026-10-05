@@ -1,4 +1,4 @@
-week,region,season,advertising_spend,avg_discount_pct,customer_satisfaction,website_visits,weekly_sales,data_quality_note
+week,region,season,advertising_spend,avg_discount_pct,customer_satisfaction,website_visits,weekly_sales,note
 1,East,Winter,10070,12,4.8,30616,83859.0,
 2,West,Winter,8534,8,3.4,26921,71621.0,
 3,North,Winter,"$4,485",15,4.8,14252,50679.0,
@@ -8,11 +8,11 @@ week,region,season,advertising_spend,avg_discount_pct,customer_satisfaction,webs
 7,North,Winter,7458,12,4.0,22528,64268.0,
 8,South,Winter,"$6,690",20,3.4,20341,61442.0,
 9,East,Winter,4163,12,3.9,13647,45341.0,
-10,West,Winter,6814,10,,21613,59330.0,missing satisfaction score
+10,West,Winter,6814,10,,21613,59330.0,
 11,North,Spring,5873,18,4.0,17581,59194.0,
 12,WEST ,Spring,7598,8,4.5,23754,67649.0,
-12,WEST ,Spring,7598,8,4.5,23754,67649.0,duplicate row for classroom discussion
-13,East,Spring,7351,18,3.5,22507,67373.0,missing discount percent
+12,WEST ,Spring,7598,8,4.5,23754,67649.0,
+13,East,Spring,7351,18,3.5,22507,67373.0,
 14,West,Spring,9663,,3.6,28756,81604.0,
 15,North,Spring,7659,12,4.1,23655,66655.0,
 16,South,Spring,"$2,864",5,4.9,9579,42156.0,
